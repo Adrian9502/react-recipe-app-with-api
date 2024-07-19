@@ -25,7 +25,7 @@ This is a React-based application that allows users to search for recipes and di
 
 - 
 ## GIF Demo
-![Website Overview](gif.png)
+![Website Overview](gif.gif)
 
 ## Overview
 ![Website Overview](thumb1.png)
