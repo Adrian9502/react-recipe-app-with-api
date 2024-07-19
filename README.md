@@ -11,7 +11,6 @@ This is a React-based application that allows users to search for recipes and di
 - **Search for Recipes:** Find recipes by ingredient or dish name.
 - **Browse by Category:** View recipes categorized by type (e.g., Chicken, Beef, Seafood).
 - **Explore by Region:** Discover recipes from different areas around the world.
-- **Responsive Design:** Optimized for both desktop and mobile devices.
 
 ## Technologies Used
 
