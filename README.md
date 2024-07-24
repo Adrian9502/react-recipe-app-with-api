@@ -1,8 +1,4 @@
-# Recipe App
-
-Welcome to the Recipe App! 🍲
-
-## Overview
+# Recipe App using ReactJS and Bootstrap
 
 This is a React-based application that allows users to search for recipes and display them by category or region. Built with Bootstrap, Hero Patterns, and several other modern libraries, the app provides a clean and interactive user experience.
 
